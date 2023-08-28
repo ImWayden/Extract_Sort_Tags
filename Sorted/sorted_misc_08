@@ -1,0 +1,18 @@
+
+UUID value="306b9b05-1057-4770-17aa-af01ac2150d6"
+Name value="AVATAR"
+Description value="A Character Selected in Character Creation"
+Name value="Code"
+Name value="Dialog"
+Name value="Story"
+Name value="DialogHidden"
+Name value="Avatar"
+
+Description value="Character visually belongs to an Underdark race"
+Name value="UNDERDARK"
+UUID value="60f6b464-752f-4970-55a8-29f75b56075e"
+Name value="Code"
+Name value="Dialog"
+Name value="Race_Meta"
+Name value="Story"
+Name value="CharacterSheet"

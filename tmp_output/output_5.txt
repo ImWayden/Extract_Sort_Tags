@@ -1,0 +1,850 @@
+
+Description value="Tag for checking if an items systemic movement sound events are triggered"
+Name value="NO_SE_MOVE_SOUND"
+UUID value="03267cf2-d3d7-4a90-28a9-5ffb53f1bb7b"
+Name value="Code"
+
+Description value="Ai hint trig, used for summon skills"
+Name value="AI_HINT_SUMMONER"
+UUID value="0353b9e8-b2a1-45b9-ec8e-593d6cef1405"
+Name value="Code"
+
+Description value="Characters with this tag ignore vertical range limitations for melee interactions. Useful for very tall characters."
+Name value="IGNORE_HEIGHT_DIFFERENCE"
+UUID value="03a8e066-673e-4353-04ae-407c4e175ba0"
+Name value="Code"
+
+UUID value="04a90774-cd81-4173-1889-0f1cc87d2aec"
+Name value="BLOCK_BOSS_DISTURBANCES"
+Name value="Code"
+Name value="Dialog"
+
+Description value="Generic tag for the AI to use torches. Used only in specific situations."
+Name value="AI_USETORCH"
+UUID value="2ec769ab-8dec-4865-d8b7-9602d50eb994"
+Name value="Code"
+
+UUID value="30cc2141-376e-4bbf-8891-3a9d579ccb41"
+Name value="SURFACE_INTERRACTIONS_FROM_CENTER"
+Description value="Do not use the pivot but the bound center as source of any surface transform actions caused by this object"
+Name value="Code"
+
+Description value="Generic tag for AI spell use"
+Name value="AI_USESPELL_B"
+UUID value="3297ed55-ccc1-473e-7584-41aca662dd3f"
+Name value="Code"
+
+Description value="Generic tag for AI spell use"
+Name value="AI_USESPELL_A"
+UUID value="33aa698c-aea0-43e2-16bd-2a5818a73efd"
+Name value="Code"
+
+Description value="Combat tag for characters to ignore the Attack of Opportunity of enemies"
+Name value="IGNORE_AOO"
+UUID value="0668a5fd-72e0-4f9e-5eb8-aeba968737c6"
+Name value="Code"
+
+Description value="Tag used on God UUID objects to define their alignment. Don't change its name"
+Name value="ALIGN_GOOD"
+UUID value="34064d50-38fe-44e4-edaa-9a12b4c33349"
+Name value="Code"
+
+Description value="Large Weight Category"
+Name value="WEIGHT_LARGE"
+UUID value="346b447c-93ba-426c-f5ac-92dafb44ec22"
+Name value="Code"
+
+UUID value="3b030365-927d-43a1-ba83-1f11ab3b5930"
+Name value="STONE_CREATURE"
+Description value="Used to make Shatter disadvantage work on earth elementals"
+Name value="SpellCondition"
+
+Description value="Tag for characters that must be looked at by Treasure and Experience Analyser"
+Name value="ENFORCE_ANALYSIS"
+UUID value="3bd9cf0a-5512-4d6a-a89d-56d1ea841204"
+Name value="Code"
+
+Description value="Toys with which children play"
+Name value="TOY"
+UUID value="3c33430b-c7f0-4e26-7d90-2aabdd2623b8"
+Name value="Code"
+
+Description value="Ai hint trigger for Rangers"
+Name value="AI_HINT_RANGER"
+UUID value="3cae4ff5-e9c0-485b-95b6-83f8610981a7"
+Name value="Code"
+
+Name value="GHOST"
+UUID value="3def9d73-7c73-487b-1181-dfd1ce1d6e07"
+Name value="Code"
+Name value="Dialog"
+
+Description value="AI helper tag used in spell conditions to improve targetting for AI."
+Name value="AI_AVOID_TARGET"
+UUID value="3eebe42c-39ec-4165-709e-81b6b71a13b3"
+Name value="Code"
+
+Description value="Advantage on rolls against turned status"
+Name value="TURNED_ADV"
+UUID value="3f4cc1a0-fad8-4432-5d81-80f0fe3e8ea6"
+Name value="SpellCondition"
+
+Description value="Tag that is set on certien Items to make them counted in the crowd system"
+Name value="CROWDSYS_ITEM"
+UUID value="421e9ec8-03d2-47eb-caa6-7adb0aa3c4b7"
+Name value="Code"
+
+UUID value="43a3d567-8e45-4257-62ab-43451bfcf2bb"
+Name value="CANT_SHOVE_THROW"
+Description value="Used to stop shove/throw of tagged target"
+Name value="Code"
+
+Description value="AI Hint tag for Trigger, used for range spell casters"
+Name value="AI_HINT_CASTER"
+UUID value="45a231e4-e94f-4b0e-41a9-af2ddf1ab544"
+Name value="Code"
+
+Description value="|This item is a candle|"
+Name value="CANDLE"
+UUID value="489adf86-3f6c-4e2f-e8b3-307d90d39688"
+Name value="Story"
+
+Description value="Advantage on rolls against poisoned statuses"
+Name value="POISONED_ADV"
+UUID value="494276cb-a499-4843-85a9-19a1bf268527"
+Name value="SpellCondition"
+
+Description value="Used for item throwing spin"
+Name value="OBJ_SMALL_NOSPIN"
+UUID value="497b3c05-c845-439a-ce95-e5c18987a374"
+Name value="Code"
+
+Description value="Used onBone items. For animals who eat bones (dogs)"
+Name value="BONE"
+UUID value="4ab2ef8c-8766-45bb-bbb3-ccca86828958"
+Name value="Code"
+
+Description value="Used for item throwing spin"
+Name value="OBJ_MEDIUM_SPIN"
+UUID value="4ab4f2f5-792e-4c7d-4891-7fe31543349a"
+Name value="Code"
+
+UUID value="4b9a13c2-5499-4dd5-bab8-1a33972e782d"
+Name value="ALCH_SOLUTION"
+Name value="Code"
+Name value="AlchemySolution"
+
+Description value="Character with this tag will have guaranteed wild magic next spell cast"
+Name value="SORCERER_WILD_MAGIC_GUARANTEED"
+UUID value="4bac801e-9471-4f41-bc88-a3ca359e528c"
+Name value="Story"
+
+Description value="Advantage on rolls against paralyze statuses"
+Name value="PARALYZED_ADV"
+UUID value="4c458b90-b91e-48fe-8f8a-83e4e4f92c14"
+Name value="SpellCondition"
+
+Name value="HARPY"
+UUID value="4ce54d09-192f-4090-fda5-b872944cde00"
+Name value="Dialog"
+Name value="Race"
+
+Description value="Food or drink"
+Name value="CONSUMABLE"
+UUID value="4d79b277-97f0-4227-80a7-147a98fbfc27"
+Name value="Code"
+
+Description value="Used To mark movable items to play sounds according to the material"
+Name value="WOOD"
+UUID value="4ddafc45-7b85-4ae3-16a6-4a8f8d22ed04"
+Name value="Code"
+
+Description value="This character is an Extra character. For Voice Recording Team only."
+Name value="RECORD_EXTRA"
+UUID value="4e3a48be-f1a7-4f1f-c4a6-b857ea5298a8"
+Name value="Code"
+
+Description value="|AI hint specifically for enemeis who use the Call For Help spell|"
+Name value="AI_HINT_CALLFORHELP"
+UUID value="527e1935-b73d-41e1-e897-904b5be4a100"
+Name value="Code"
+
+Description value="This character is a major Protagonist in the story. For Voice Recording Team only."
+Name value="RECORD_PROTAGONIST"
+UUID value="541bd0f1-9164-4c16-4eb0-5c7b03967184"
+Name value="Code"
+
+Description value="Used To mark movable items to play sounds according to the material"
+Name value="STONE"
+UUID value="556b33c9-2cde-4d41-008c-cddd61c168c8"
+Name value="Code"
+
+Description value="Used to mark objects that shouldn't be transfered between persistent level templates"
+Name value="NO_LEVELTEMPLATE_TRANSFER"
+UUID value="577229d7-a806-40c9-fc81-843e193dc055"
+Name value="Code"
+
+Description value="Huge Weight Category"
+Name value="WEIGHT_HUGE"
+UUID value="5e77c1e9-5dbf-4b24-16a6-b5800e74b577"
+Name value="Code"
+
+Description value="Character with this tag has access to metamagic"
+Name value="SORCERER_METAMAGIC"
+UUID value="6078032a-1638-4d33-16ba-60994966cf0c"
+Name value="Story"
+
+UUID value="6115eeaa-0a4c-46b1-6d8a-832ad6fb075e"
+Name value="ALWAYS_PERMANENTLY_HOSTILE_TO_ALL_PLAYERS"
+Description value="NPC's faction is set permanently hostile to player factions as soon as they enter any combat"
+Name value="Story"
+
+UUID value="6374d29f-eaed-4f95-1b8e-91a990214c71"
+Name value="TORCH_REVOCATION_FX"
+Description value="Alt color for the torch"
+Name value="Code"
+
+UUID value="648a06ce-8eb0-4905-b8b4-246791dff5a5"
+Name value="DOUBLE_ALCHEMY"
+Description value="Used in Osiris to roll Medicine check when crafting new potions and obtain double result."
+Name value="Code"
+
+UUID value="64b824e7-50c5-475a-c298-0252376e772d"
+Name value="ALCH_INGREDIENT"
+Name value="Code"
+Name value="AlchemyIngredient"
+
+Description value="Tag characters that the Ai should prefer, such as the king in the Kill the King Arena game mode."
+Name value="AI_PREFERRED_TARGET"
+UUID value="64bc9da1-9262-475a-97a3-7615b700bdde"
+Name value="Code"
+
+Description value="Generic tag for AI spell use"
+Name value="AI_USESPELL_C"
+UUID value="64d4bb52-dd35-4d61-12a1-c90b78a59795"
+Name value="Code"
+
+Description value="Medium Weight Category"
+Name value="WEIGHT_MEDIUM"
+UUID value="653cb906-38d1-4b80-98b5-b000ef643dff"
+Name value="Code"
+
+UUID value="678d693a-75dc-4b40-a495-31d384ce4992"
+Name value="TORCH_PURPLE_FX"
+Description value="Alt color for the torch"
+Name value="Code"
+
+Description value="Disadvantage on rolls against restrained statuses"
+Name value="RESTRAINED_DISADV"
+UUID value="6b9d73ac-e853-43ad-bbac-2b493cbe4049"
+Name value="SpellCondition"
+
+UUID value="6c06f5e4-d4fa-498a-b991-ede17798923e"
+Name value="WYR_CIRCUS_CHEESE"
+Description value="| Cheese polymorph. |"
+Name value="Code"
+
+Description value="A tag allowing the Toll Collector to reason about goldpiles around her."
+Name value="LOOT_GOLD"
+UUID value="6c6b7cac-113c-42ee-46bc-5605067b9f7a"
+Name value="Code"
+
+Description value="Tag used on God UUID objects to define their alignment. Don't change its name"
+Name value="ALIGN_EVIL"
+UUID value="6d08632e-0300-4587-b980-418e0e1b3bfb"
+Name value="Code"
+
+Description value="A different kind of torch, with a hanging light."
+Name value="TORCH_LANTERN"
+UUID value="6d68eef3-1ad6-4954-b88a-70441302f18d"
+Name value="Code"
+
+Description value="This tag will govern who can benefit from Pack Tactics (Hyenas, Zhentarim fighters...)"
+Name value="COMBAT_PACKTACTICS"
+UUID value="6e046250-7aa6-4a81-7f89-cfe6203f5c8e"
+Name value="Code"
+
+Description value="Advantage on rolls against frightened statuses"
+Name value="FRIGHTENED_ADV"
+UUID value="6fea07d3-020d-413d-67b4-16969da9ef25"
+Name value="SpellCondition"
+
+Description value="Tag for characters that should be ignored by Treasure and Experience Analyser"
+Name value="IGNORE_ANALYSIS"
+UUID value="71440223-b00f-4a44-e29c-9a869cdcbc9a"
+Name value="Code"
+
+Description value="Generic tag for AI spell use"
+Name value="AI_USESPELL_E"
+UUID value="72c898ce-e277-46ad-feb6-032f570c7f73"
+Name value="Code"
+
+Description value="Set for Masked Poisoned items "
+Name value="MASKED"
+UUID value="0d07268e-a63b-40e4-ebb8-d0d5dc02ddef"
+Name value="Code"
+
+Description value="Used for item throwing spin"
+Name value="OBJ_TINY_NOSPIN"
+UUID value="738b3a6f-e2d2-4f76-52b0-882e8002d4db"
+Name value="Code"
+
+Description value="Monster tag"
+Name value="GNOLL_FLESHGNAWER"
+UUID value="0ef7a827-b872-4c8c-f085-2b2a6451c439"
+Name value="Code"
+
+UUID value="7e6a4698-c855-4fce-3fa5-e5c2ed75eed9"
+Name value="MOUND_MUD"
+Description value="Mound uses mud root template"
+Name value="Story"
+
+Description value="Small Weight Category"
+Name value="WEIGHT_SMALL"
+UUID value="7e99123d-6833-4461-4a9b-e2b558813467"
+Name value="Code"
+
+Description value="Item with this tag won't generate a Vandalise or VandaliseNoOwner crime"
+Name value="IGNOREVANDALISE"
+UUID value="7e9915ff-d7a4-4e52-c39a-60801075cc2c"
+Name value="Code"
+
+Description value="Gargantuan Weight Category"
+Name value="WEIGHT_GARGANTUAN"
+UUID value="7f26284a-0c98-48d8-f385-7a6c29b5df97"
+Name value="Code"
+
+Description value="Rising platforms have these tags so they don't interfer with each other."
+Name value="RISING_PLATFORM"
+UUID value="7f6c27d9-0ee6-4840-428d-7c2979f5491f"
+Name value="Code"
+
+UUID value="801bd716-0666-4dd5-49b4-ff45a5a90f2a"
+Name value="INNATE_FLYER"
+Description value="This creature can naturally fly, and so should not be able to benefit from Fly spell."
+Name value="Code"
+
+Description value="Bodyparts that are severed heads"
+Name value="SEVEREDHEAD"
+UUID value="80572cea-ebf2-4c53-0589-d5b0be3b49f4"
+Name value="Code"
+
+UUID value="84906b84-1c8a-44d5-0eb4-01030a922787"
+Name value="WOODWOAD"
+Description value="A tag to identify Wood Woads. Useful for their tree stride ability."
+Name value="Code"
+
+Description value="This character is a Quest Giving character. For Voice Recording Team only."
+Name value="RECORD_QUEST"
+UUID value="855a45e4-91a4-41a1-0194-b59501bd3653"
+Name value="Code"
+
+Description value="Ai hint tag for trigger"
+Name value="AI_HINT_TACRETREAT"
+UUID value="85f430aa-2b76-408a-9093-1d05ed55a512"
+Name value="Code"
+
+UUID value="867f3a1e-1e4b-48c2-9e86-343423152717"
+Name value="PERMA_DEFEATED"
+Description value="Set on perma-defeated characters."
+Name value="Story"
+
+Description value="Used to mark that this object should not be moved to the main level when the parent levelmplate is unloaded by Osiris, and will thus be unloaded"
+Name value="UNLOAD_WITH_LEVELTEMPLATE"
+UUID value="87572f4a-8462-4042-6aa0-baca0e1ecbb2"
+Name value="Code"
+
+UUID value="8798a644-4720-4487-1abc-4b6af3f826a1"
+Name value="ALCH_SOLUTION_POTION"
+Name value="AlchemySolution"
+Name value="AlchemySolutionPotion"
+
+UUID value="8803503b-64e0-49dd-5bba-4f0c5c2cb5c0"
+Name value="CHASM_IMMUNE_FLY"
+Description value="Upon entering a chasm not tagged with DEEP_WATER_CHASM, will be returned to the nearest valid position without dying."
+Name value="Code"
+
+Name value="SORCERER_WILDMAGIC"
+UUID value="885f8675-e400-4d53-4d92-04621dff5895"
+Name value="Dialog"
+Name value="Class"
+
+Description value="Used for item throwing spin"
+Name value="OBJ_LARGE_SPIN"
+UUID value="892fdf2b-a9a2-4717-b8a8-5d672eb0b87b"
+Name value="Code"
+
+UUID value="89a63758-d622-41cd-f981-cebac1ff1826"
+Name value="BLOCK_USE_FROM_CONSTELLATION"
+Description value="Set by a constellation that wants story to block uses of an item, and make it trigger the UseBlockedFromStory input socket on the item"
+Name value="Story"
+
+Name value="BOOK"
+UUID value="8a8e253a-c081-45a1-a29f-b6911d9068c5"
+Name value="Code"
+Name value="Dialog"
+
+Description value="used in behaviour Script to Ignore Cowering when seening a combat"
+Name value="IGNORESEENCOMBAT"
+UUID value="8b0dabbf-6254-4f3f-59b4-24404d6a906d"
+Name value="Code"
+
+Description value="Food Tag"
+Name value="CHEESE"
+UUID value="8d0976b4-1019-4095-f6ad-f1606c21dcb2"
+Name value="Code"
+
+Description value="|This item can be used to open locks|"
+Name value="LOCKPICKS"
+UUID value="1013e720-9b0f-4783-8686-559b84068800"
+Name value="Code"
+
+Description value="Food/Consumable"
+Name value="DRINK"
+UUID value="8e318736-9f62-458e-d08f-3d46290b058c"
+Name value="Code"
+
+UUID value="1063224a-a5ab-41b1-09b3-c70ae430cee8"
+Name value="CHASM_IMMUNE"
+Description value="Upon entering any chasm, will be returned to the nearest valid position without dying."
+Name value="Code"
+
+Description value="Food/Consumable"
+Name value="VEGETABLE"
+UUID value="93267e98-b748-47c9-b994-2d14ceece53d"
+Name value="Code"
+
+Description value="Tiny Weight Category"
+Name value="WEIGHT_TINY"
+UUID value="9360d001-0cef-49e0-e0a2-714d495dea76"
+Name value="Code"
+
+Description value="Tag characters that the Ai should prefer not to target"
+Name value="AI_UNPREFERRED_TARGET"
+UUID value="9787450d-f34d-43bd-88be-bad20bc0eeb8"
+Name value="Code"
+
+UUID value="9851fa99-5538-432a-778e-09c9a8297489"
+Name value="KEY"
+Description value="Marks objects that serve as keys e.g. to be organized in dedicated keychain containers"
+Name value="Code"
+
+Description value="Used for item throwing spin"
+Name value="OBJ_SMALL_SPIN"
+UUID value="9b144af1-f4c4-45ec-638d-25fa5001b62b"
+Name value="Code"
+
+Description value="Used for item throwing spin"
+Name value="OBJ_TINY_SPIN"
+UUID value="110287af-83cf-42c1-de9c-f8b231cc7f6d"
+Name value="Code"
+
+Description value="Knock spell VFX for small objects"
+Name value="VFX_KNOCK_SMALL"
+UUID value="9b6f9531-c2d3-47b2-5391-14861525b32e"
+Name value="Code"
+
+UUID value="9be69f6b-a5a9-4b84-7ead-3acd0f421fb8"
+Name value="CONTROL_UNDEAD_IMMUNE"
+Description value="Tag used to give immunity against control undead to some characters."
+Name value="Code"
+
+Description value="AI hint tag for trigger, Indicies interesting area for retreating"
+Name value="RETREAT"
+UUID value="9cefcf81-6c03-4505-e196-e59d8a5c47b6"
+Name value="Code"
+
+UUID value="9d0fd44c-2495-44db-84a1-a84c83243e2f"
+Name value="VFX_BLOOD_SILVER"
+Description value="Tag to identify creatures with Silver blood for VFX"
+Name value="SpellCondition"
+
+Description value="???"
+Name value="TARGET_BOUND_CENTER"
+UUID value="9d7b1a5a-c1ca-40d5-b9a7-afae519e0826"
+Name value="Code"
+
+UUID value="a171ef78-79b3-4512-48a6-28ca06fe0bf6"
+Name value="VFX_BLOOD_ACID"
+Description value="Tag to identify creatures with Acid blood for VFX"
+Name value="SpellCondition"
+
+UUID value="a3a713b6-f06a-401d-e5a5-870bdb8f2e47"
+Name value="VFX_MOONLANTERN_POLE"
+Description value="Pole version of the moon lantern"
+Name value="Code"
+
+Description value="Character with this tag cannot trigger wild magic"
+Name value="SORCERER_WILD_MAGIC_SUPRESSED"
+UUID value="a3b7a422-4d28-413d-c4ad-d2e71e00f537"
+Name value="Story"
+
+UUID value="11504ff6-abb5-4e18-7a86-d22b3deb8883"
+Name value="TORCH_BLUE_FX"
+Description value="Alt color for the torch"
+Name value="Code"
+
+Description value="|Applied by the Bind Sight Passive. A monster with blindsight can perceive its surroundings without relying on sight, within a specific radius.|"
+Name value="BLINDSIGHT"
+UUID value="a49c94ac-6903-408e-058b-3786d81fc065"
+Name value="Code"
+
+Description value="Characters and items with this tag will not be affected by chasms (no &quot;enter&quot; event to script, no destruction or teleportation of the object, ...)"
+Name value="IGNORE_CHASMS"
+UUID value="a50cb0b1-29a6-4711-1da7-c30d64e38722"
+Name value="Code"
+
+UUID value="a66639f1-15bd-43ae-138f-a1fd0127cc87"
+Name value="INANIMATE"
+Description value="Used for Aura status checking"
+Name value="Code"
+
+Description value="Tag for setting Status VFX overrides."
+Name value="TORCH"
+UUID value="a8139e1a-c593-4e0b-cd88-03f788f883db"
+Name value="Code"
+
+Description value="Knock spell VFX for hatches"
+Name value="VFX_KNOCK_HATCH"
+UUID value="a89ed58f-4f71-4fe5-e2b0-c041e627c499"
+Name value="Code"
+
+Description value="For Dialog lines that are marked a Telephaty Internal Speech"
+Name value="TELEPATHY"
+UUID value="ad247b59-d101-4f04-ef99-1c4767656286"
+Name value="Dialog"
+
+Description value="Advantage on rolls against charm statuses"
+Name value="CHARMED_ADV"
+UUID value="ada75891-25ff-4bdc-119a-32ad62de61a9"
+Name value="SpellCondition"
+
+Description value="This tag will govern who can benefit from Formation Tactics (Guards, Flaming Fist...)"
+Name value="COMBAT_FORMATIONTACTICS"
+UUID value="adb71c5b-0f7d-44bf-349d-126914d08a57"
+Name value="Code"
+
+UUID value="b148cfca-53d8-4b73-52b0-08de4a395e23"
+Name value="SHOPTRIGGER_FOR_SALE"
+Description value="|Set on roots that should be for sale by default in shop triggers. E.g. weapons, armor, ...|"
+Name value="Code"
+
+UUID value="b25e76da-ae10-4922-e3ad-5c9793f37ee7"
+Name value="TORCH_CURSED_FX"
+Description value="Alt color for the torch"
+Name value="Code"
+
+Description value="Knock spell VFX for large objects"
+Name value="VFX_KNOCK_LARGE"
+UUID value="b451184e-bb49-450e-779e-2dd8200ee7a5"
+Name value="Code"
+
+Description value="Food/Consumable"
+Name value="POISONED"
+UUID value="b48a0baa-18f7-4bf0-e985-31d056481a5a"
+Name value="Code"
+
+UUID value="b5825091-f2ed-4657-868d-d0c0c320a058"
+Name value="PALADIN_BLOCK_OATHBREAK"
+Description value="|Used to avoid paladins from breaking their oaths if they do something that it would against the entity with this tag.|"
+Name value="Code"
+
+UUID value="b7018e56-3185-4dde-0586-bd48789e6929"
+Name value="CHASM_IMMUNE_SWIM"
+Description value="Upon entering a chasm tagged with DEEP_WATER_CHASM, will be returned to the nearest valid position without dying."
+Name value="Code"
+
+Description value="This character is a Player Character or an Origin Story. For Voice Recording Team only."
+Name value="RECORD_PLAYER"
+UUID value="1402369e-b821-47be-cc95-5c43e59048ca"
+Name value="Code"
+
+UUID value="b9e63705-637a-4d3b-ef87-93a4cf243f70"
+Name value="PERMA_DEFEATED_OR_OFFSTAGE"
+Description value="Set on characters that are either perma-defeated or offstage (for use with queries to remove red outlines from items and corpses)"
+Name value="Story"
+
+Name value="DEEPROTHE"
+UUID value="bba2bcc8-eb3c-435d-dd97-22f543ec67ee"
+Name value="Code"
+Name value="Dialog"
+
+Description value="Characters with this tag will not try and move out of dangerous surfaces. Be careful with this tag!"
+Name value="IGNORE_DANGEROUS_SURFACES"
+UUID value="bbf62461-4af4-4631-7a80-0beb88d9a6d9"
+Name value="Code"
+
+UUID value="bc09a589-e076-4b2d-868b-ccf8b6cb4944"
+Name value="STEEL_WATCHER"
+Name value="Dialog"
+Name value="Race"
+
+Name value="SKELETON"
+UUID value="146a89e7-802f-4926-21bc-414a47c20285"
+Name value="Dialog"
+Name value="Race"
+
+Description value="Specifies which portals or teleporters the NPCs can use during COMBAT."
+Name value="COMBATPORTAL"
+UUID value="bde69893-ee8d-4327-58aa-5e07ce40051e"
+Name value="Code"
+
+Description value="| Status tag for the Harpy Meal charmed halfling |"
+Name value="ACT1_DEN_CHARMEDKID"
+UUID value="c070d771-944d-474b-94b5-863745d51e52"
+Name value="Code"
+
+Description value="Tag used on God UUID objects to define their alignment. Don't change its name"
+Name value="ALIGN_NEUTRAL"
+UUID value="c1ff8a7f-c430-4671-4ebc-8f094a8702e3"
+Name value="Code"
+
+UUID value="c3613de9-f008-49c0-69bf-42af0703fa43"
+Name value="MOUND_GRAVEL"
+Description value="Mound uses gravel root template"
+Name value="Story"
+
+Description value="Object is a gaspit"
+Name value="GASPIT"
+UUID value="c39d6f8f-646e-485c-3f8d-1cdf5aeb87fb"
+Name value="Story"
+
+Name value="SPIDER_PHASE"
+UUID value="c3b3e9cd-ad18-475a-f18d-6245a6b219af"
+Name value="Code"
+Name value="Dialog"
+
+Description value="Knock spell VFX for medium objects"
+Name value="VFX_KNOCK_MEDIUM"
+UUID value="c61c8907-8f50-46ab-db9b-de6f9197393a"
+Name value="Code"
+
+Description value="Food/Consumable"
+Name value="FOOD"
+UUID value="c86e0114-a5ab-48f6-97b4-32debf1e77f5"
+Name value="Code"
+
+Description value="For Voice Recording"
+Name value="NO_RECORD"
+UUID value="c8f0beb0-9052-4546-998b-ac710d11a4b3"
+Name value="Code"
+
+Description value="|Allows SwD on entities normally wouldn't allow it.|"
+Name value="ALLOW_SPEAK_WITH_DEAD"
+UUID value="cd5365fe-990a-4855-03b2-3250d8039edd"
+Name value="Code"
+
+UUID value="ceed37ff-d663-4694-31b2-b2cedfa1fc10"
+Name value="MOUND_SAND"
+Description value="Mound uses sand root template"
+Name value="Story"
+
+UUID value="cf60d691-4307-4a8c-4daf-870eea810325"
+Name value="IGNORE_PLATFORM_DESTRUCTION"
+Description value="Items with this tag will not be destroyed when they are on a platform and the platform is destroyed"
+Name value="Code"
+
+Description value="This character is a major Antagonist in the story. For Voice Recording Team only."
+Name value="RECORD_ANTAGONIST"
+UUID value="cf6225be-c617-420f-bc96-a63d433115aa"
+Name value="Code"
+
+Description value="Used to indicate that a portal should not be used for pathfinding, but needs to be used explicitely. "
+Name value="NO_PATHFINDING_PORTAL"
+UUID value="d9793375-20f0-437f-3380-1001b014cab9"
+Name value="Code"
+
+Description value="Magic scroll with a spell"
+Name value="SCROLL"
+UUID value="dd86c045-0370-4ec9-c5b7-b1b07060096f"
+Name value="Code"
+
+Description value="Disables weapon effects on the tagged weapon"
+Name value="DISABLE_WEAPON_EFFECTS"
+UUID value="e0a85c7e-09d4-4395-8a94-e24ead725319"
+Name value="Code"
+
+Description value="Tags items with which you can dig"
+Name value="SHOVEL"
+UUID value="e2db698a-0705-43f4-7496-ff06fdf1671e"
+Name value="Code"
+
+Description value="Used for item throwing spin"
+Name value="OBJ_MEDIUM_NOSPIN"
+UUID value="e53c02aa-1f2c-4f54-a580-1792c64213c6"
+Name value="Code"
+
+Description value="Prevents the object from being a valid object for Knock if it's locked"
+Name value="KNOCKBLOCK"
+UUID value="e56e4df0-a4d7-480b-9fb6-3c578b98372f"
+Name value="SpellCondition"
+
+Description value="Tags healing potions"
+Name value="HEALING_POTION"
+UUID value="1879a93d-2edf-4f54-dd85-a3814d727f67"
+Name value="Code"
+
+UUID value="e749196a-3564-4420-9392-7b84eec2d27c"
+Name value="TORCH_GREEN_FX"
+Description value="Alt color for the torch"
+Name value="Code"
+
+Description value="Advantage on rolls against restrained statuses"
+Name value="RESTRAINED_ADV"
+UUID value="eacd09eb-cddc-4902-3381-d1b9a7b2cbc5"
+Name value="SpellCondition"
+
+Description value="Food"
+Name value="FISH"
+UUID value="ec16c2d2-2943-41cf-9697-390465efcfb2"
+Name value="Code"
+
+Description value="Ingredient Tag Duh"
+Name value="INGREDIENT"
+UUID value="18aef887-d7c7-46b9-4394-bbe3f14ac94a"
+Name value="Code"
+
+Description value="Used for item throwing spin"
+Name value="OBJ_LARGE_NOSPIN"
+UUID value="ed529293-ec51-4ada-dc95-27689fe12376"
+Name value="Code"
+
+Description value="Tag used for AI to find objects in their environment to use with the Throw spell."
+Name value="AI_THROWITEM"
+UUID value="ef5d1184-dd1c-4988-f9be-19ad1a47baad"
+Name value="Code"
+
+UUID value="f0020818-86f1-4ee9-a9a5-ce9acc9e1090"
+Name value="DEFEATED"
+Description value="Set on defeated characters. Removed by script when defeated status gets cleared."
+Name value="Story"
+
+Description value="Ai hints for unique skills"
+Name value="AI_HINT_UNIQUE"
+UUID value="1902723d-dd16-4e7a-d687-077b3af679dd"
+Name value="Code"
+
+Description value="|Used for dead wisp VFX.|"
+Name value="VFX_DEAD_WISP"
+UUID value="f31d1582-9498-4a92-5985-f7de22a3ef2a"
+Name value="SpellCondition"
+
+Description value="Combat AI tag used for use objects"
+Name value="AI_USEITEM_A"
+UUID value="f532d904-4e7c-469f-478e-a667cd39e11a"
+Name value="Code"
+
+UUID value="f6662b6e-b3bf-468e-cb82-224017471b6a"
+Name value="VAMPIRE"
+Description value="Used for both Vampires and Vampire spawn."
+Name value="Code"
+
+Name value="SORCERER_DRACONIC"
+UUID value="f6d0e042-5b90-41d8-4aab-23a2279e3ea1"
+Name value="Dialog"
+Name value="Class"
+
+UUID value="f791b866-0cc4-48e9-4bba-d380a4568793"
+Name value="VFX_BLOOD_GREEN"
+Description value="Tag to identify creatures with Green blood for VFX"
+Name value="SpellCondition"
+
+UUID value="f87b203d-75ad-4527-17b7-7013bc44a12e"
+Name value="ALCH_SOLUTION_GRENADE"
+Name value="AlchemySolution"
+Name value="AlchemySolutionGrenade"
+
+UUID value="f8fca7c4-c06b-4c2c-d4a9-d943df59ec51"
+Name value="SHOPTRIGGER_BLOCK_FOR_SALE"
+Description value="|Set on items in shop triggers that should not be for sale, even if their root is for sale by default (e.g. a personal heirloom or quest reward)|"
+Name value="Code"
+
+Description value="Special arrow, e.g. Arrow of Fire"
+Name value="ARROW"
+UUID value="fa8afea4-4742-4467-efbd-8569d11b7858"
+Name value="Code"
+
+Description value="Checked by osi/behaviour for certain food type items"
+Name value="MEAT"
+UUID value="fae436d4-da32-42a6-b2a2-35960bdaeb82"
+Name value="Code"
+
+UUID value="fb59fa11-9bd3-4af4-1da8-adb582182e10"
+Name value="DEEP_WATER_CHASM"
+Description value="Tag to indicate that a chasm is &quot;deep water&quot; - see CHASM_IMMUNE_SWIM and CHASM_IMMUNE_FLY descriptions."
+Name value="Code"
+
+Description value="Monster tag"
+Name value="GNOLL_FLIND"
+UUID value="fbc00bf9-4124-4dd1-2e92-509e278ef51a"
+Name value="Code"
+
+Description value="|This character cannot be pickpocketed|"
+Name value="BLOCK_PICKPOCKET"
+UUID value="fe2e65d3-a8de-45bf-72a3-39c3ecad9e66"
+Name value="Code"
+
+UUID value="ff16e8ab-e8e6-4acb-05a1-e5aa9d3a0e51"
+Name value="SUMMONWITHOUTMOUTH"
+Description value="Used to determine which summons can drink potions. "
+Name value="Code"
+
+Description value="Tag characters that the Ai should completely ignore in the calculations."
+Name value="AI_IGNORED_TARGET"
+UUID value="ff6d7d1f-094f-432e-17a1-c3fdaba0c17a"
+Name value="Code"
+
+Description value="Advantage on rolls against slipping surfaces."
+Name value="SLIPPING_ADV"
+UUID value="1b6b3f27-23cc-4594-f2b0-40a9be54c20f"
+Name value="SpellCondition"
+
+Description value="Generic Behaviours Beast that attacks you if you attack it"
+Name value="AGGRESSIVEBEAST"
+UUID value="1ed04fb5-e654-4dbf-3c89-95a72e95e177"
+Name value="Code"
+
+UUID value="21a90b16-03ab-43c3-45b1-0e02ccb9f9be"
+Name value="WOODWOAD_CLUB"
+Description value="|Used for applying extra damage as the woodwoad with its special club|"
+Name value="Code"
+
+UUID value="263a8a31-154a-45dc-7984-755ec0ed75cc"
+Name value="TELEPORTER_HOLE_SMALL"
+Description value="Set on TeleporterHole roots to allow AD on use"
+Name value="Code"
+
+Description value="Generic tag for summons. Allows different treatements of crimes, similarly to the ANIMAL tag."
+Name value="SUMMON"
+UUID value="26c78224-a4c1-43e4-43b9-e7751bfa41fa"
+Name value="Code"
+
+Description value="A helper object created by a light-type spell."
+Name value="SPELLLIGHTOBJECT"
+UUID value="292e7f29-ff10-462d-e98b-dd9489d1ea70"
+Name value="Code"
+
+Description value="Tagging possible companions and henchmen so that they put items on bottom bar like players."
+Name value="DONOTUSE_COMPANION"
+UUID value="2a4f9fcc-5891-4150-3fbf-19a29ae6337f"
+Name value="Code"
+
+Description value="Generic tag for AI spell use"
+Name value="AI_USESPELL_D"
+UUID value="2d17a512-3d41-4f88-5389-c4f947adb222"
+Name value="Code"
+
+UUID value="2db3999b-8662-4e13-a9ab-5ee56ef27e8e"
+Name value="TORCH_TRUE_FX"
+Description value="Alt color for the torch"
+Name value="Code"
+
+Description value="Rage causes VFX of the spells change"
+Name value="VFX_RAGE"
+UUID value="2dcbb93b-28fb-4805-7a8b-8f0217906316"
+Name value="Code"
+
+UUID value="2e6933bc-7c9b-4293-2b99-a049757860c4"
+Name value="TELEPORTER_HOLE_TINY"
+Description value="Set on TeleporterHole roots to allow AD on use"
+Name value="Code"

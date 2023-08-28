@@ -1,0 +1,14 @@
+
+Description value="A holy warrior bound to a sacred oath."
+Name value="PALADIN"
+UUID value="6d85ab2d-5c23-498c-1ea6-f098005a7a17"
+Name value="Code"
+Name value="Dialog"
+Name value="Class"
+
+Description value="|A priestly champion who wields divine magic in service of a higher power.|"
+Name value="CLERIC"
+UUID value="1671b4bf-4f47-4bb7-b99c-bb80601fd509"
+Name value="Code"
+Name value="Dialog"
+Name value="Class"

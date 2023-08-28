@@ -1,0 +1,3 @@
+Name value="WPN_VFX_DAGGER"
+UUID value="0006ca6f-28f9-48e9-349f-eb3dff32ef0f"
+Name value="Code"

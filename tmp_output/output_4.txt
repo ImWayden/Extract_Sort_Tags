@@ -1,0 +1,292 @@
+
+Name value="WPN_STAVE"
+UUID value="00a09d42-c23c-48b0-cc90-7fc6bd6c3d9e"
+Name value="Code"
+
+Name value="WPN_GREATAXE"
+UUID value="02da79f5-6f13-4f90-1998-2e106937483f"
+Name value="Code"
+
+Name value="AI_HINT_TELEPORT"
+UUID value="32049276-fd31-469a-d2a1-7df348b9e72b"
+Name value="Code"
+
+Name value="BULETTE"
+UUID value="06c1ef36-dac6-4224-2083-d3d4848f7f89"
+Name value="Code"
+
+Name value="MUSIC_VFX_LUTE"
+UUID value="3a9a899b-4177-4763-29b3-98258b52a5ec"
+Name value="SpellCondition"
+
+Name value="WPN_VFX_AXE_LARGE"
+UUID value="3db6e0f6-1af6-4155-c8b5-4ac8bc4a6750"
+Name value="Code"
+
+Name value="CUSTOM_BURN_VFX"
+UUID value="3e1e0629-2ded-4e27-bd8c-e9a63d2dd13e"
+Name value="Code"
+
+Name value="NO_GHOST"
+UUID value="4392a3cc-07ad-4031-aab5-92bd2581e572"
+Name value="Code"
+
+Name value="Enemy"
+UUID value="43ef091a-1e8c-4906-fda4-9522e60641bb"
+Name value="Code"
+
+Name value="Puzzle"
+UUID value="09962a69-b99d-40ed-8eb2-54c220206c66"
+Name value="Code"
+
+Name value="WPN_HANDAXE"
+UUID value="09dd1e1e-6d9f-4cc6-14b5-e968c8814305"
+Name value="Code"
+
+Name value="WPN_LONGBOW"
+UUID value="557d335c-0780-4665-0298-9a70207dba2d"
+Name value="Code"
+
+Name value="POTION"
+UUID value="56c99a77-8f6a-4584-418e-3b2a6b9f6152"
+Name value="Code"
+
+Name value="WPN_VFX_QUARTERSTAFF"
+UUID value="0b1663f7-ebdd-4f63-039c-10d380aced36"
+Name value="Code"
+
+Name value="WPN_SLING"
+UUID value="59c686ae-c70c-453a-cea6-fc8f82eb6d02"
+Name value="Code"
+
+Name value="WPN_FLAIL"
+UUID value="5d7b1304-6d20-4d60-1bba-bb0f1b4918fc"
+Name value="Code"
+
+Name value="HOOKHORROR"
+UUID value="5e1d89d2-c7f6-49d2-d88e-b4647caeba4a"
+Name value="Code"
+
+Name value="WPN_VFX_SHORTBLADE_SLASH"
+UUID value="0b8538bc-9d96-41de-c093-3b221258f463"
+Name value="Code"
+
+Name value="WPN_VFX_SPEAR"
+UUID value="6a584605-6605-497b-6fbd-8dd3af07166d"
+Name value="Code"
+
+UUID value="70913187-25ac-4301-129c-ba1663f3654c"
+Name value="OWLBEAR"
+Name value="Code"
+
+Description value="Does not become Downed"
+Name value="DOWNED_DISABLED"
+UUID value="7095912e-fcb9-41dd-c3ae-f73c3e80224b"
+
+Name value="WPN_DAGGER"
+UUID value="7490e5d0-d346-4b0e-c680-e90416776308"
+Name value="Code"
+
+Name value="WPN_BATTLEAXE"
+UUID value="7609654e-b213-410d-8fb0-296dda301164"
+Name value="Code"
+
+Name value="WPN_GLAIVE"
+UUID value="7a15ea4f-cb00-4201-7f8e-4602e32714d0"
+Name value="Code"
+
+Name value="WPN_SHORTBOW"
+UUID value="81197304-7116-4d7b-f48e-7b2063bf8266"
+Name value="Code"
+
+Name value="MUSIC_VFX_VIOLIN"
+UUID value="81dbb2dd-ffe9-4b6a-5991-322c89c823e0"
+Name value="SpellCondition"
+
+UUID value="83485d43-2f1a-4916-28b4-3fabaa37dffe"
+Name value="SABERTOOTH"
+Name value="Code"
+
+Name value="MUSIC_VFX_FLUTE"
+UUID value="838663ea-de99-44a4-4cbc-ed136d5ae975"
+Name value="SpellCondition"
+
+Name value="AUTOMATON"
+UUID value="0f9099e9-a4d8-4b17-e5b2-f7e6eb4eb479"
+Name value="Race"
+
+Name value="Quest"
+UUID value="8990df0e-adb1-4341-a4ac-efd6df0f08aa"
+Name value="Code"
+
+Name value="WPN_LONGSWORD"
+UUID value="96a99a42-ec5d-4081-629d-e3c905f03671"
+Name value="Code"
+
+Name value="Ally"
+UUID value="9addaf05-65e6-4a78-6e83-f692e468a62c"
+Name value="Code"
+
+Name value="WPN_CLUB"
+UUID value="9b333d67-365f-41fa-b280-e8088865ace9"
+Name value="Code"
+
+Name value="WPN_VFX_SHORTBLADE"
+UUID value="9e3ed11b-61c4-4540-268c-16138d8cd0c0"
+Name value="Code"
+
+Name value="WPN_VFX_AXE_SMALL"
+UUID value="11101253-7810-4806-89b6-21dc3e6ac2cd"
+Name value="Code"
+
+Name value="WPN_LIGHT_CROSSBOW"
+UUID value="a302a8e2-a3f9-41e1-8ca6-a470e6539953"
+Name value="Code"
+
+Name value="Neutral"
+UUID value="a3262787-fea1-45a7-41bd-dcd71a8807cf"
+Name value="Code"
+
+Name value="WPN_MORNINGSTAR"
+UUID value="aa4cfcea-aee8-44b9-60a4-23e7f71db196"
+Name value="Code"
+
+Name value="WPN_GREATCLUB"
+UUID value="ab44887d-0eb0-4fef-9dbd-3e9497a8a21a"
+Name value="Code"
+
+Description value="Used to determine whether item is made of metal for purpose of spell targeting."
+Name value="METAL"
+UUID value="abadcad5-9229-4999-7a8c-55cdf27f5cc9"
+
+Name value="WPN_RAPIER"
+UUID value="aeaf4e95-38d7-45ec-0089-bc40619eb006"
+Name value="Code"
+
+Name value="WPN_GREATSWORD"
+UUID value="aec4ed1a-993b-491f-dba2-0b6418f1c169"
+Name value="Code"
+
+Name value="WPN_JAVELIN"
+UUID value="b6e3bfa1-2c63-404f-cbbe-d021aa47e1cc"
+Name value="Code"
+
+Name value="WPN_VFX_BOW"
+UUID value="bb363e2e-9a11-4828-cb80-098447e38aff"
+Name value="Code"
+
+Name value="WPN_SICKLE"
+UUID value="bfdc63bd-b8f6-4eac-6393-710c2f886ff4"
+Name value="Code"
+
+Name value="WPN_DART"
+UUID value="c23ac9ef-5b47-4c2d-e58c-607bb3a88747"
+Name value="Code"
+
+Name value="WPN_MACE"
+UUID value="c29fc6ce-0482-420d-39a8-a041b9ba2d5c"
+Name value="Code"
+
+UUID value="c485baa6-d363-462b-6d85-46d90ab661ab"
+Name value="DINOSAUR"
+Name value="Code"
+
+Name value="WPN_TRIDENT"
+UUID value="c808f076-4a0f-422a-db97-85e935cef9f3"
+Name value="Code"
+
+Name value="WPN_SHORTSWORD"
+UUID value="c826fd1e-4780-43d4-9bb4-f387060ce60f"
+Name value="Code"
+
+Name value="WPN_PIKE"
+UUID value="ca1a548b-f409-4cad-5aaf-dddf345809c7"
+Name value="Code"
+
+Name value="MUSIC_VFX_LYRE"
+UUID value="cd85b343-55a9-4b66-92bd-ca42a070aa84"
+Name value="SpellCondition"
+
+Name value="Reward"
+UUID value="d5cd4ee4-6c5d-429a-efb3-562f90ecd76d"
+Name value="Code"
+
+Name value="WPN_VFX_HAMMER_SMALL"
+UUID value="d72c59a0-a9a5-482b-bb8e-f2c1e9e7b0ea"
+Name value="Code"
+
+Name value="WPN_VFX_HAMMER_LARGE"
+UUID value="d931bca0-7d04-42b0-1a97-5b7d6a23d2da"
+Name value="Code"
+
+Name value="WPN_SHIELD"
+UUID value="dc9e09f0-b2ba-4720-28bd-9deededbf1f2"
+Name value="Code"
+
+UUID value="e1ad9942-fa0e-467b-e9bf-e7c668c6830a"
+Name value="PANTHER"
+Name value="Code"
+
+Name value="WPN_LIGHT_HAMMER"
+UUID value="edc46cc0-25d0-4da9-cbbf-baed9e23cedc"
+Name value="Code"
+
+Name value="WPN_WAR_PICK"
+UUID value="eed87cdb-c5ee-45c2-5a9a-4969e8dc1e7a"
+Name value="Code"
+
+Name value="WPN_VFX_LONGBLADE"
+UUID value="ef13fc1c-dd55-4167-82ab-0588579ef398"
+Name value="Code"
+
+Name value="MUSIC_VFX_DRUM"
+UUID value="f3f2d52d-9ef3-492c-eca7-b3d9135a050c"
+Name value="SpellCondition"
+
+Name value="GRENADE"
+UUID value="fe0d86c3-a562-430e-33a6-bfd8b29b8472"
+Name value="Code"
+
+Name value="WPN_SPEAR"
+UUID value="fef6b399-19da-4d4b-ecb1-9dc77fffc346"
+Name value="Code"
+
+Name value="WPN_HAND_CROSSBOW"
+UUID value="1c12ee6d-50e2-459f-c890-56ae1170ce90"
+Name value="Code"
+
+Name value="WPN_WARHAMMER"
+UUID value="1dff197e-b74c-4173-d394-32e139326c55"
+Name value="Code"
+
+Name value="WPN_SCIMITAR"
+UUID value="206f9701-7b24-4eaf-c49a-77a4c246e251"
+Name value="Code"
+
+Name value="MUSIC_VFX_VOCAL"
+UUID value="233a89ec-140a-4f77-3da1-0272530fd0e6"
+Name value="SpellCondition"
+
+UUID value="24e33333-d67c-44b0-f59e-6a4ea263e43b"
+Name value="ORGANIC_TRAP"
+Name value="Dialog"
+
+Name value="WPN_MAUL"
+UUID value="2503012b-9cc4-491c-68a0-2f28ea8c0787"
+Name value="Code"
+
+Name value="Tool"
+UUID value="273296fc-764e-4119-6eb3-c2a29cf2b196"
+Name value="Code"
+
+Name value="WPN_HALBERD"
+UUID value="2c74855f-769a-43f5-dbb6-c44877c4ff21"
+Name value="Code"
+
+Name value="VFX_SNEAKING"
+UUID value="2c9222d8-0db3-481c-0fb7-e6783e2469df"
+Name value="Code"
+
+Name value="WPN_HEAVY_CROSSBOW"
+UUID value="2cc23bb9-d777-4265-4ca3-35336228908b"
+Name value="Code"

@@ -1,0 +1,14 @@
+
+UUID value="a0738fdf-ca0c-446f-1da1-1162acec9132"
+Name value="GENITAL_VULVA"
+Description value="Character has a vulva"
+Name value="Code"
+Name value="Story"
+Name value="DialogHidden"
+
+UUID value="d27831df-2891-42e4-15b6-55ae04548b91"
+Name value="GENITAL_PENIS"
+Description value="Character has a penis"
+Name value="Code"
+Name value="Story"
+Name value="DialogHidden"

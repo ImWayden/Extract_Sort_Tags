@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="0" build="19" />
+	<region id="Tags">
+		<node id="Tags">
+			<attribute id="Description" type="LSString" value="" />
+			<attribute id="DisplayDescription" type="TranslatedString" handle="h2eebff53g4205g4070gbe05g3a36ea90c30d" version="0" />
+			<attribute id="DisplayName" type="TranslatedString" handle="h62b6d4f7g2f3ag4b1bgb01cg81feee2f018d" version="0" />
+			<attribute id="Icon" type="FixedString" value="" />
+			<attribute id="Name" type="FixedString" value="Tool" />
+			<attribute id="UUID" type="guid" value="273296fc-764e-4119-6eb3-c2a29cf2b196" />
+			<children>
+				<node id="Categories">
+					<children>
+						<node id="Category">
+							<attribute id="Name" type="LSString" value="Code" />
+						</node>
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

@@ -1,0 +1,2 @@
+Name value="WPN_VFX_DAGGER"
+
